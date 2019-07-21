@@ -14,7 +14,7 @@ allprojects {
 }
 ```
 
-## Dependency
+## Step 2
 
 Add this to your root `build.gradle(Module:..)`
 

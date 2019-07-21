@@ -52,3 +52,7 @@ dependencies {
                 }
             }).show();
 ```
+
+## Screenshots
+
+![dimdialog](https://user-images.githubusercontent.com/53127668/61595378-1fcc3e80-abff-11e9-9401-2c6fc9fb8966.png)
